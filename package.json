@@ -1,0 +1,23 @@
+{
+  "name": "dxcassignment",
+  "version": "1.0.0",
+  "description": "This solution contains program to get Fibonacci sequence with test case",
+  "main": "FibProgram.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhaywagh95/DXCAssignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhaywagh95/DXCAssignment/issues"
+  },
+  "homepage": "https://github.com/abhaywagh95/DXCAssignment#readme"
+}
